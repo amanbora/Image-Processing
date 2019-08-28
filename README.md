@@ -1,2 +1,2 @@
 # Image-Processing
-Implementing Research based on image processing, enhancement and optimisation
+Implementing Research papers based on Image processing, enhancement and optimisation
